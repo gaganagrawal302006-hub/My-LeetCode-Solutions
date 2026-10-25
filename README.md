@@ -17,3 +17,19 @@ To practice problem-solving, strengthen my Java skills, and maintain a GitHub re
 
 
 Maintained as part of my ongoing DSA practice.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/gaganagrawal302006-hub/My-LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/gaganagrawal302006-hub/My-LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/gaganagrawal302006-hub/My-LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
+<!---LeetCode Topics End-->
